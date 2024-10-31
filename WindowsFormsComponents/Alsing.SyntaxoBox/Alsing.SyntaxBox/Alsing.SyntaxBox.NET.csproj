@@ -7,6 +7,7 @@
     <RootNamespace>Alsing</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <CodePage>1252</CodePage>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>..\..\..\..\..\..\KMMBP\Common\Certificates\KMEAP.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
